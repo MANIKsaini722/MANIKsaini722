@@ -21,11 +21,7 @@ Cloud & DevOps Enthusiast | AWS | Docker | Kubernetes | Jenkins | Linux | CI/CD 
 - 🐳 Experience with **Docker**, **Containerization**, **Kubernetes**, and **Jenkins**.
 - ⚙️ Familiar with **CI/CD Pipelines**, **Git**, **GitHub**, and **Terraform**.
 - 💻 Programming skills in **Java**, **Python**, **C**, **C++**, **HTML5**, **CSS3**, and **Bash Scripting**.
-- 🌱 Currently learning **GitHub Actions**, **Prometheus**, **Grafana**, and advanced **Kubernetes**.
-- 💡 Interested in Infrastructure as Code (IaC), Automation, and Cloud Architecture.
-- 📫 Reach me at **your-email@example.com**
-- ⚡ Fun Fact: *I love automating repetitive tasks and building scalable cloud solutions.*
-
+  
 ---
 
 # 🚀 Professional Summary
