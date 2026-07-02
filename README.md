@@ -215,14 +215,6 @@ Passionate about building scalable, secure, and highly available cloud solutions
 
 ---
 
-
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true)
-
----
-
 # 🌐 Connect With Me
 
 <p align="left">
