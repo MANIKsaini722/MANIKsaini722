@@ -1,187 +1,226 @@
 # Hi 👋, I'm Manik Saini
 
-### Cloud & DevOps Enthusiast | AWS | Linux | Docker | Git | GitHub | Jenkins
+### ☁️ Cloud & DevOps Enthusiast | AWS | Docker | Kubernetes | Jenkins | Linux
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 Pursuing **B.Tech (Computer Science & Engineering)** (4-Year Program) at **GNA University**
-- ☁️ Passionate about **Cloud Computing** and **DevOps**
-- 🚀 Hands-on experience with **AWS Cloud Services**
-- 🐧 Strong understanding of **Linux Administration**
-- 🐳 Learning and building projects using **Docker, Jenkins, Git & GitHub**
-- 🌱 Currently exploring **Terraform, Kubernetes, and CI/CD Pipelines**
-- 💡 Passionate about automating infrastructure and building scalable cloud solutions
-- 📫 Reach me at: **your-email@example.com**
-- ⚡ Fun Fact: *I enjoy solving real-world infrastructure problems using Cloud & DevOps technologies.*
+🎓 I'm pursuing a **4-Year B.Tech in Computer Science & Engineering (CSE)** from **GNA University**.
+
+💡 I am passionate about **Cloud Computing** and **DevOps**. I enjoy building scalable cloud infrastructure, automating deployments, and learning modern DevOps practices.
+
+🚀 I have hands-on experience with **AWS Services**, **Docker**, **Jenkins**, **Linux**, **Git**, **GitHub**, and **Containerization**. I am continuously expanding my knowledge in **Kubernetes**, **Terraform**, and **CI/CD Automation**.
 
 ---
 
 # 🚀 Professional Summary
 
-Cloud & DevOps enthusiast with hands-on experience in deploying and managing cloud infrastructure on AWS. Skilled in Linux administration, Docker containerization, Git version control, Jenkins automation, and web application deployment.
+Cloud & DevOps enthusiast with practical experience in deploying applications on AWS, managing Linux servers, containerizing applications using Docker, creating CI/CD pipelines with Jenkins, and working with version control using Git & GitHub.
 
-Passionate about learning modern DevOps practices and building scalable, secure, and highly available cloud solutions through automation and continuous improvement.
+Dedicated to building secure, scalable, and automated cloud infrastructure while continuously learning industry best practices.
 
 ---
 
-# 🚀 Core Competencies
+# 💼 Core Competencies
 
-- ☁️ AWS Cloud Services
-- 🐧 Linux Administration
-- 🐳 Docker Containerization
+- ☁️ AWS Cloud
+- 🚀 DevOps Practices
+- 🐳 Docker & Containerization
+- ☸️ Kubernetes
 - ⚙️ Jenkins CI/CD
-- 🌐 Web Server Configuration (Nginx)
+- 🐧 Linux Administration
 - 🔄 Git & GitHub
+- 🌐 Nginx Web Server
+- 📦 Infrastructure Automation
+- 📊 Monitoring & Troubleshooting
 - 🚀 Application Deployment
-- 🛠 Infrastructure Automation
-- 📊 System Monitoring
-- 🔐 Cloud Security Best Practices
 
 ---
 
-# 🛠️ Technology Stack
+# 🛠️ Tech Stack
 
-## ☁️ Cloud
+### ☁️ Cloud
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws" />
-</p>
-
-## 💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,bash,html,css" />
-</p>
-
-## ⚙️ DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,linux,nginx,terraform,vscode" />
-</p>
-
----
-
-# 💼 Projects
-
-## 🔹 AWS EC2 Web Server Deployment
-
-- Launched EC2 instances on AWS
-- Configured Security Groups
-- Connected using SSH
-- Hosted static websites
-- Managed Linux servers
+- AWS EC2
+- AWS S3
+- AWS IAM
+- AWS VPC
+- AWS RDS
+- AWS Route 53
+- AWS CloudFront
+- AWS Lambda
+- AWS CloudWatch
+- AWS Auto Scaling
+- AWS Elastic Load Balancer (ELB)
+- AWS EBS
+- AWS EFS
+- AWS SNS
+- AWS SQS
+- AWS ECS
+- AWS ECR
 
 ---
 
-## 🔹 Dockerized Web Application
+### ⚙️ DevOps
 
-- Containerized web applications using Docker
+- Docker
+- Kubernetes
+- Jenkins
+- Git
+- GitHub
+- GitHub Actions
+- Terraform (Learning)
+- CI/CD Pipelines
+- Containerization
+
+---
+
+### 🐧 Operating Systems
+
+- Linux
+- Ubuntu
+- Windows
+
+---
+
+### 💻 Programming Languages
+
+- Java
+- Python
+- HTML5
+- CSS3
+- Bash Shell Scripting
+- C
+- C++
+
+---
+
+# 💼 Featured Projects
+
+## ☁️ AWS Cloud Infrastructure Deployment
+
+- Launched and managed EC2 instances
+- Configured IAM Users & Roles
+- Hosted Static Website on S3
+- Configured Route 53 DNS
+- Used Load Balancer & Auto Scaling
+- Monitored resources using CloudWatch
+
+---
+
+## 🐳 Dockerized Web Application
+
 - Created Docker Images
-- Managed Containers
-- Improved deployment consistency
+- Built Docker Containers
+- Docker Compose
+- Multi-container deployment
+- Container Networking
+- Volume Management
 
 ---
 
-## 🔹 Jenkins CI/CD Pipeline
+## ⚙️ Jenkins CI/CD Pipeline
 
-- Configured Jenkins
 - Automated Build Process
-- GitHub Integration
+- Continuous Integration
 - Continuous Deployment
+- GitHub Integration
+- Build Automation
+- Pipeline as Code
 
 ---
 
-## 🔹 Linux Administration Lab
+## ☸️ Kubernetes Deployment
+
+- Created Pods
+- Deployments
+- ReplicaSets
+- Services
+- ConfigMaps
+- Rolling Updates
+- Scaling Applications
+
+---
+
+## 🐧 Linux Administration
 
 - User & Group Management
 - File Permissions
 - Shell Scripting
-- Package Management
+- Cron Jobs
 - Process Management
+- Package Installation
+- Networking Commands
 
 ---
 
-## 🔹 Git & GitHub Version Control
+## 🌐 Portfolio Website
 
-- Repository Management
-- Branching Strategy
-- Pull Requests
-- Git Workflow
-- Collaborative Development
+- Responsive Portfolio
+- HTML
+- CSS
+- JavaScript
+- GitHub Pages Deployment
 
 ---
 
 # 📚 Currently Learning
 
-- Kubernetes
+- Advanced Kubernetes
 - Terraform
 - GitHub Actions
 - AWS DevOps Services
-- Monitoring & Logging
+- Monitoring with Prometheus & Grafana
 - Infrastructure as Code
+- Ansible
 
 ---
 
 # 🏆 Certifications
 
 - AWS Cloud Computing
-- Linux Administration
 - DevOps Fundamentals
 - Docker Essentials
+- Linux Administration
 - Jenkins CI/CD
 
-*(Add your official certifications here)*
+(Add your certifications here)
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-# 🏅 GitHub Trophies
+# 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true)
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-</p>
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- Email: your-email@example.com
 
 ---
 
 # 🎯 Career Objective
 
-To build a successful career in Cloud Computing and DevOps by leveraging AWS, Linux, Docker, Jenkins, Git, and automation tools to develop scalable, secure, and highly available cloud infrastructure while continuously learning modern technologies.
+Seeking opportunities as a **Cloud Engineer**, **DevOps Engineer**, or **AWS Cloud Associate**, where I can apply my knowledge of AWS, Docker, Kubernetes, Jenkins, Linux, CI/CD, and automation to build reliable, scalable, and secure cloud solutions while continuously growing my technical expertise.
 
 ---
 
-## 💬 Quote
+### 💡 Motto
 
-> **"Learn. Build. Automate. Deploy. Repeat."** 🚀
-
----
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+> **Code • Build • Automate • Deploy • Scale 🚀**
