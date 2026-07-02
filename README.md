@@ -1,6 +1,12 @@
 # Hi 👋, I'm Manik Saini
 
-### ☁️ Cloud & DevOps Enthusiast | AWS | Docker | Kubernetes | Jenkins | Linux
+<h3 align="center">
+Cloud & DevOps Enthusiast | AWS | Docker | Kubernetes | Jenkins | Linux | CI/CD | Terraform
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Cloud+%26+DevOps+Enthusiast;AWS+Cloud+Learner;Docker+%7C+Kubernetes+%7C+Jenkins;Linux+Administrator;Always+Learning+New+Technologies" />
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -8,132 +14,149 @@
 
 # 👨‍💻 About Me
 
-🎓 I'm pursuing a **4-Year B.Tech in Computer Science & Engineering (CSE)** from **GNA University**.
-
-💡 I am passionate about **Cloud Computing** and **DevOps**. I enjoy building scalable cloud infrastructure, automating deployments, and learning modern DevOps practices.
-
-🚀 I have hands-on experience with **AWS Services**, **Docker**, **Jenkins**, **Linux**, **Git**, **GitHub**, and **Containerization**. I am continuously expanding my knowledge in **Kubernetes**, **Terraform**, and **CI/CD Automation**.
+- 🎓 I'm **Manik Saini**, currently pursuing my **B.Tech (4th Year)** in **Computer Science & Engineering (CSE)** from **GNA University**.
+- ☁️ Passionate about **Cloud Computing** and **DevOps**.
+- 🚀 Hands-on experience with **AWS Cloud Services** and cloud deployments.
+- 🐧 Strong understanding of **Linux Administration**.
+- 🐳 Experience with **Docker**, **Containerization**, **Kubernetes**, and **Jenkins**.
+- ⚙️ Familiar with **CI/CD Pipelines**, **Git**, **GitHub**, and **Terraform**.
+- 💻 Programming skills in **Java**, **Python**, **C**, **C++**, **HTML5**, **CSS3**, and **Bash Scripting**.
+- 🌱 Currently learning **GitHub Actions**, **Prometheus**, **Grafana**, and advanced **Kubernetes**.
+- 💡 Interested in Infrastructure as Code (IaC), Automation, and Cloud Architecture.
+- 📫 Reach me at **your-email@example.com**
+- ⚡ Fun Fact: *I love automating repetitive tasks and building scalable cloud solutions.*
 
 ---
 
 # 🚀 Professional Summary
 
-Cloud & DevOps enthusiast with practical experience in deploying applications on AWS, managing Linux servers, containerizing applications using Docker, creating CI/CD pipelines with Jenkins, and working with version control using Git & GitHub.
+Cloud & DevOps enthusiast with hands-on experience in deploying and managing cloud infrastructure on AWS. Skilled in Linux administration, Docker containerization, Kubernetes orchestration, Jenkins CI/CD automation, Git version control, and web application deployment.
 
-Dedicated to building secure, scalable, and automated cloud infrastructure while continuously learning industry best practices.
+Passionate about building scalable, secure, and highly available cloud solutions while continuously learning modern DevOps practices and Infrastructure as Code (IaC).
 
 ---
 
-# 💼 Core Competencies
+# 🚀 Core Competencies
 
-- ☁️ AWS Cloud
-- 🚀 DevOps Practices
+- ☁️ AWS Cloud Computing
+- 🚀 DevOps Engineering
 - 🐳 Docker & Containerization
 - ☸️ Kubernetes
 - ⚙️ Jenkins CI/CD
 - 🐧 Linux Administration
 - 🔄 Git & GitHub
-- 🌐 Nginx Web Server
-- 📦 Infrastructure Automation
-- 📊 Monitoring & Troubleshooting
+- 🌐 Web Server Configuration (Nginx)
+- 📦 Infrastructure as Code (Terraform)
 - 🚀 Application Deployment
+- 📊 Monitoring & Troubleshooting
+- 🔐 Cloud Security Fundamentals
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technology Stack
 
-### ☁️ Cloud
+## ☁️ Cloud & DevOps
 
-- AWS EC2
-- AWS S3
-- AWS IAM
-- AWS VPC
-- AWS RDS
-- AWS Route 53
-- AWS CloudFront
-- AWS Lambda
-- AWS CloudWatch
-- AWS Auto Scaling
-- AWS Elastic Load Balancer (ELB)
-- AWS EBS
-- AWS EFS
-- AWS SNS
-- AWS SQS
-- AWS ECS
-- AWS ECR
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,git,github,linux,bash,nginx" />
+</p>
 
----
+### AWS Services
 
-### ⚙️ DevOps
-
-- Docker
-- Kubernetes
-- Jenkins
-- Git
-- GitHub
-- GitHub Actions
-- Terraform (Learning)
-- CI/CD Pipelines
-- Containerization
+- Amazon EC2
+- Amazon S3
+- IAM
+- VPC
+- Route 53
+- CloudFront
+- RDS
+- Elastic Load Balancer (ELB)
+- Auto Scaling
+- CloudWatch
+- Lambda
+- SNS
+- SQS
+- EBS
+- EFS
+- ECS
+- ECR
 
 ---
 
-### 🐧 Operating Systems
+## 💻 Programming & Web Technologies
 
-- Linux
-- Ubuntu
-- Windows
-
----
-
-### 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,bash" />
+</p>
 
 - Java
 - Python
+- C
+- C++
 - HTML5
 - CSS3
 - Bash Shell Scripting
-- C
-- C++
 
 ---
 
-# 💼 Featured Projects
+## 🐧 Operating Systems & Tools
 
-## ☁️ AWS Cloud Infrastructure Deployment
+<p>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,git,github,docker" />
+</p>
 
-- Launched and managed EC2 instances
+- Linux (Ubuntu)
+- Windows
+- Visual Studio Code
+- Git
+- GitHub
+- Docker Desktop
+
+---
+
+# 💼 Professional Projects
+
+## 🔹 AWS EC2 Web Server Deployment
+
+- Launched EC2 instances on AWS
+- Configured Security Groups
+- Connected using SSH
+- Hosted Static Websites
+- Managed Linux Servers
 - Configured IAM Users & Roles
-- Hosted Static Website on S3
-- Configured Route 53 DNS
-- Used Load Balancer & Auto Scaling
-- Monitored resources using CloudWatch
 
 ---
 
-## 🐳 Dockerized Web Application
+## 🔹 AWS S3 Static Website Hosting
 
-- Created Docker Images
-- Built Docker Containers
+- Hosted Static Website on Amazon S3
+- Configured Bucket Policies
+- Enabled Static Website Hosting
+- Managed Public Access Settings
+
+---
+
+## 🔹 Dockerized Java Application
+
+- Containerized Java Web Application
+- Built Docker Images
+- Managed Docker Containers
 - Docker Compose
-- Multi-container deployment
-- Container Networking
-- Volume Management
+- Optimized Deployment Workflow
 
 ---
 
-## ⚙️ Jenkins CI/CD Pipeline
+## 🔹 Jenkins CI/CD Pipeline
 
+- Configured Jenkins
 - Automated Build Process
-- Continuous Integration
-- Continuous Deployment
 - GitHub Integration
-- Build Automation
-- Pipeline as Code
+- Automated Deployment
+- Continuous Integration & Continuous Delivery
 
 ---
 
-## ☸️ Kubernetes Deployment
+## 🔹 Kubernetes Deployment
 
 - Created Pods
 - Deployments
@@ -141,28 +164,36 @@ Dedicated to building secure, scalable, and automated cloud infrastructure while
 - Services
 - ConfigMaps
 - Rolling Updates
-- Scaling Applications
+- Horizontal Scaling
 
 ---
 
-## 🐧 Linux Administration
+## 🔹 Linux Administration
 
 - User & Group Management
 - File Permissions
 - Shell Scripting
-- Cron Jobs
+- Package Management
 - Process Management
-- Package Installation
 - Networking Commands
 
 ---
 
-## 🌐 Portfolio Website
+## 🔹 Git & GitHub Version Control
 
-- Responsive Portfolio
-- HTML
-- CSS
-- JavaScript
+- Repository Management
+- Branching Strategy
+- Pull Requests
+- Git Workflow
+- Collaborative Development
+
+---
+
+## 🔹 Responsive Portfolio Website
+
+- HTML5
+- CSS3
+- Responsive Design
 - GitHub Pages Deployment
 
 ---
@@ -173,54 +204,77 @@ Dedicated to building secure, scalable, and automated cloud infrastructure while
 - Terraform
 - GitHub Actions
 - AWS DevOps Services
-- Monitoring with Prometheus & Grafana
-- Infrastructure as Code
+- Prometheus
+- Grafana
 - Ansible
+- Infrastructure as Code (IaC)
 
 ---
 
-# 🏆 Certifications
+# 🏆 Certifications & Learning
 
 - AWS Cloud Computing
-- DevOps Fundamentals
-- Docker Essentials
 - Linux Administration
+- DevOps Engineering Practices
+- Docker Essentials
 - Jenkins CI/CD
+- Kubernetes Fundamentals
+- Terraform Basics
 
-(Add your certifications here)
+*(Add your official certifications here.)*
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+# 📈 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
 
 ---
 
 # 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true)
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true)
 
 ---
 
 # 🌐 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: your-email@example.com
+<p align="left">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+</p>
 
 ---
 
 # 🎯 Career Objective
 
-Seeking opportunities as a **Cloud Engineer**, **DevOps Engineer**, or **AWS Cloud Associate**, where I can apply my knowledge of AWS, Docker, Kubernetes, Jenkins, Linux, CI/CD, and automation to build reliable, scalable, and secure cloud solutions while continuously growing my technical expertise.
+To begin my career as a Cloud & DevOps Engineer by leveraging my knowledge of AWS, Linux, Docker, Kubernetes, Jenkins, Git, GitHub, and Infrastructure as Code (IaC) to build scalable, secure, and automated cloud solutions. I am committed to continuous learning and contributing to innovative cloud technologies.
 
 ---
 
-### 💡 Motto
+## 💬 Motto
 
-> **Code • Build • Automate • Deploy • Scale 🚀**
+> **"Learn • Build • Automate • Deploy • Scale 🚀"**
+
+---
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
