@@ -74,12 +74,7 @@ Passionate about building scalable, secure, and highly available cloud solutions
 - Auto Scaling
 - CloudWatch
 - Lambda
-- SNS
-- SQS
-- EBS
-- EFS
-- ECS
-- ECR
+
 
 ---
 
@@ -200,13 +195,10 @@ Passionate about building scalable, secure, and highly available cloud solutions
 
 # 📚 Currently Learning
 
-- Advanced Kubernetes
+-  Kubernetes
 - Terraform
 - GitHub Actions
 - AWS DevOps Services
-- Prometheus
-- Grafana
-- Ansible
 - Infrastructure as Code (IaC)
 
 ---
@@ -216,14 +208,6 @@ Passionate about building scalable, secure, and highly available cloud solutions
 - AWS Cloud Computing
 - Linux Administration
 - DevOps Engineering Practices
-- Docker Essentials
-- Jenkins CI/CD
-- Kubernetes Fundamentals
-- Terraform Basics
-
-*(Add your official certifications here.)*
-
----
 
 # 📊 GitHub Analytics
 
@@ -235,11 +219,7 @@ Passionate about building scalable, secure, and highly available cloud solutions
 
 ---
 
-# 📈 Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
-
----
 
 # 🏆 GitHub Trophies
 
@@ -271,10 +251,3 @@ To begin my career as a Cloud & DevOps Engineer by leveraging my knowledge of AW
 
 ---
 
-## 💬 Motto
-
-> **"Learn • Build • Automate • Deploy • Scale 🚀"**
-
----
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
